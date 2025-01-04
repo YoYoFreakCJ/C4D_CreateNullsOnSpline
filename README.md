@@ -1,11 +1,13 @@
 # Introduction
 This script creates Nulls along a Spline in Cinema 4D. The Nulls are equally spaced based on the desired amount of Nulls. The user will be asked how many Nulls to create. Tested with Cinema 4D 2025.1.1.
 
+![Cinema_4D_U1XVCMzRdc](https://github.com/user-attachments/assets/6b8f8393-e8ec-4979-801e-9e361198598f)
+
 # Usage
-Select any Spline object and run the script. When prompted, enter the amount of Nulls you wish to create. The Nulls will be inserted under the Spline object.
+Select any Spline object and run the script. When prompted, enter the amount of Nulls you wish to create. The Nulls will be inserted under the Spline object. The Nulls will be selected afterwards.
 
 # Installation
-1. Download [CreateNullsOnSpline.py](/CreateNullsOnSpline.py)
+1. Download [CreateNullsOnSpline.py](/CreateNullsOnSpline.py).
 2. In Cinema 4D go to **Extensions** -> **Script Manager**.
 3. In the Script Manager, go to **File** -> **Import Script...**.
 4. Select the downloaded file.
